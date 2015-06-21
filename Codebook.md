@@ -21,11 +21,11 @@ All other variables are the measures that were properly labeled.
 
 #Process
 
-1) First the data was imported into R 
-2) The data was merged into one dataset 
-3) The measurement columns were named after the feature names, and names were given to the id columns
-4) A data frame whose measurement columns contain only mean and st. dev features
+1. First the data was imported into R 
+2. The data was merged into one dataset 
+3. The measurement columns were named after the feature names, and names were given to the id columns
+4. A data frame whose measurement columns contain only mean and st. dev features
 was created
-5) Trim the rows to the 180 needed to show mean values for each subject-activity pair
-6) Output the data to "Data.txt"
+5. Trim the rows to the 180 needed to show mean values for each subject-activity pair
+6. Output the data to "Data.txt"
 
