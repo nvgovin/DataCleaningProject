@@ -1,4 +1,4 @@
-This document provides information about the generated set by the script run_analysis.R, provided in this repository.
+#This document provides information about the generated set by the script run_analysis.R, provided in this repository.
 
 #Data set Data.txt
 
